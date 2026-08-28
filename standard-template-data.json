@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-08-28T06:46:58.062806819Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-08-28T06:49:04.562415324Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e04cf706-b188-4c7f-8a40-3c1a597843dc",
     "homepageId": "3d443589-0709-4247-8367-8a8d659a0f58"
@@ -144,17 +144,25 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "1c5f291f-484a-47d3-b3f9-199bab2026ac",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/87cf719b-4b60-4920-b162-80256778645c/main/1787899147803-k2wr4gvu11.jpg",
+            "id": "fda48b51-031d-4017-8779-a8a9b815fa22",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/87cf719b-4b60-4920-b162-80256778645c/main/1787899707078-kbai7jq9wa.JPG",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "58976b5d-0f8e-4072-b2f0-151a55b2d6d1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/87cf719b-4b60-4920-b162-80256778645c/main/1787899147803-86j5881f4z.jpg",
+            "id": "7627df8d-491e-4896-aaa2-446db0a9c0cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/87cf719b-4b60-4920-b162-80256778645c/main/1787899707079-lr6r239wlm.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b61bed4a-0e90-4279-8f71-dbc99cb3856a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/87cf719b-4b60-4920-b162-80256778645c/main/1787899707079-e2k2iavzsl.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
