@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-08-28T06:49:04.562415324Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-08-28T07:01:33.662623233Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e04cf706-b188-4c7f-8a40-3c1a597843dc",
     "homepageId": "3d443589-0709-4247-8367-8a8d659a0f58"
@@ -1259,7 +1259,7 @@
                     "id": "67313868-c463-41df-928f-efe290a561ce",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/index_gallery/1787899616003-9rit4jfhj8.jpg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "Bech",
                     "isSelected": true,
                     "blockId": null
                   }
