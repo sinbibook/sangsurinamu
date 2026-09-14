@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-09-10T07:39:01.308952570Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-09-14T11:38:16.687933171Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e04cf706-b188-4c7f-8a40-3c1a597843dc",
     "homepageId": "3d443589-0709-4247-8367-8a8d659a0f58"
@@ -1618,9 +1618,9 @@
             ],
             "slider": false,
             "enabled": true,
-            "endDate": null,
+            "endDate": "2026-10-31",
             "sortOrder": 0,
-            "startDate": null,
+            "startDate": "2026-09-14",
             "description": ""
           }
         ]
