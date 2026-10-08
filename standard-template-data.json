@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-10-02T10:10:25.342927847Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-10-08T09:38:04.938168912Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e04cf706-b188-4c7f-8a40-3c1a597843dc",
     "homepageId": "3d443589-0709-4247-8367-8a8d659a0f58"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "sangsurinamu.kr",
-    "realtimeBookingId": "https://m.booking.naver.com/booking/3/bizes/1726617",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1726617",
     "ybsId": "70409",
     "amenities": [
       "흡연구역(지정장소)",
