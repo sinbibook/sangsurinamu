@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-10-08T09:38:04.938168912Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-10-15T10:14:40.544164294Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e04cf706-b188-4c7f-8a40-3c1a597843dc",
     "homepageId": "3d443589-0709-4247-8367-8a8d659a0f58"
@@ -1601,6 +1601,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -1620,6 +1623,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": "2026-10-31",
             "sortOrder": 0,
@@ -2032,137 +2036,6 @@
           ]
         },
         {
-          "id": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-          "images": [
-            {
-              "id": "3b0e8d1e-3200-4122-b5f3-de68529c7989",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_thumbnail/1787877976255-xgw05dxtw0.jpg",
-              "sortOrder": 2,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "bce9f20e-326d-4b2d-b216-5d1a8517e214",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976286-4ht6yebz8h.jpg",
-              "sortOrder": 19,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "e7be7e78-96e3-4297-b969-be85b44d9fd8",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976287-7m1w95u9l4.jpg",
-              "sortOrder": 20,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "92e9c52a-2e78-47fc-89a1-558362aa7e2d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976088-s885ckv27z.jpg",
-              "sortOrder": 21,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "441e409a-20f7-47c0-bcc8-f07a59c21688",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-iv4uak3n8y.jpg",
-              "sortOrder": 22,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "d58dc34f-5c85-47f0-a69b-89b681779ee3",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-g5crzflx34.jpg",
-              "sortOrder": 23,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "2a3117c3-8279-434a-ad80-370a3e746168",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-pjk5j12joo.jpg",
-              "sortOrder": 24,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "60faa715-3fec-43df-82c5-486256e9dd9e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-tvcdj1nqft.jpg",
-              "sortOrder": 25,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "45f44a1c-88d5-4834-935b-bb783e4d3167",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-qzfhvbtlir.jpg",
-              "sortOrder": 26,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "1240eae4-9e60-40a1-b142-226c91041d04",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-gxq54xoaav.jpg",
-              "sortOrder": 27,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "d7b8002e-026a-4421-8cbf-0c3de2f5f39f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-dkokpqjo3o.jpg",
-              "sortOrder": 28,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "3544ff08-66f3-4898-b590-c6050c8c8bde",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976252-9n5s0muuqi.jpg",
-              "sortOrder": 6,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "6eca3df5-0be0-496d-afaf-b9723404b3e7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976252-13q1dofhb3.jpg",
-              "sortOrder": 7,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "7f400052-1e74-4c44-9cf9-8774ee3579a6",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976254-3xya2ddewt.jpg",
-              "sortOrder": 8,
-              "description": "",
-              "isSelected": true,
-              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
-              "category": "roomtype_exterior"
-            }
-          ]
-        },
-        {
           "id": "d727a5a4-0b16-4a9d-90a1-eeac8fc05aac",
           "images": [
             {
@@ -2334,6 +2207,137 @@
               "description": "",
               "isSelected": true,
               "blockId": "d727a5a4-0b16-4a9d-90a1-eeac8fc05aac",
+              "category": "roomtype_exterior"
+            }
+          ]
+        },
+        {
+          "id": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+          "images": [
+            {
+              "id": "3b0e8d1e-3200-4122-b5f3-de68529c7989",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_thumbnail/1787877976255-xgw05dxtw0.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "bce9f20e-326d-4b2d-b216-5d1a8517e214",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976286-4ht6yebz8h.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "e7be7e78-96e3-4297-b969-be85b44d9fd8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976287-7m1w95u9l4.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "92e9c52a-2e78-47fc-89a1-558362aa7e2d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976088-s885ckv27z.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "441e409a-20f7-47c0-bcc8-f07a59c21688",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-iv4uak3n8y.jpg",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "d58dc34f-5c85-47f0-a69b-89b681779ee3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-g5crzflx34.jpg",
+              "sortOrder": 23,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "2a3117c3-8279-434a-ad80-370a3e746168",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-pjk5j12joo.jpg",
+              "sortOrder": 24,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "60faa715-3fec-43df-82c5-486256e9dd9e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976185-tvcdj1nqft.jpg",
+              "sortOrder": 25,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "45f44a1c-88d5-4834-935b-bb783e4d3167",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-qzfhvbtlir.jpg",
+              "sortOrder": 26,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "1240eae4-9e60-40a1-b142-226c91041d04",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-gxq54xoaav.jpg",
+              "sortOrder": 27,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "d7b8002e-026a-4421-8cbf-0c3de2f5f39f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_interior/1787877976187-dkokpqjo3o.jpg",
+              "sortOrder": 28,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "3544ff08-66f3-4898-b590-c6050c8c8bde",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976252-9n5s0muuqi.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "6eca3df5-0be0-496d-afaf-b9723404b3e7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976252-13q1dofhb3.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "7f400052-1e74-4c44-9cf9-8774ee3579a6",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3d443589-0709-4247-8367-8a8d659a0f58/roomtype_exterior/1787877976254-3xya2ddewt.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": "62221eea-0eac-4537-97fe-ab69012d2d9c",
               "category": "roomtype_exterior"
             }
           ]
